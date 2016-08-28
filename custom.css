@@ -1,0 +1,153 @@
+body {
+	background-color:#507092;
+	background-color:#656565;
+}
+
+
+a {
+	text-decoration:none;
+}
+
+.main-title {
+	display:inline-block;
+	color: #C33;
+	margin-left:20px;
+	font-family:  Rockwell, 'Bree Serif',  serif;
+}
+
+.btn-course-select {
+	display:inline-block;
+	vertical-align:middle;
+	margin-bottom:14px;
+	margin-left:20px;
+}
+
+.red-text {
+	color:#D33;
+}
+
+.topic-div {
+	text-align:center;
+}
+
+.main-topic {
+	width: 100%;
+	margin: 2px;
+}
+
+.btn {
+	white-space: normal;
+}
+
+.subtopic-group {
+	margin: 5px;
+	width: 90%;
+}
+
+.page-header {
+	font-weight:bold;
+	color:#fdfdfd;
+}
+
+.panel-collapse, .panel-info{
+	background-color:#d6d6d8;
+	padding:15px;
+}
+
+
+.padded {
+	padding-right:15px;
+}
+
+.answer-panel {
+	vertical-align:middle;
+	font-size:large;
+}
+
+#check-button-div {
+	text-align:right;
+}
+
+.answer-input {
+	margin:10px 15px;
+	width:100%;
+}
+
+.inline-input {
+	display: inline;
+	width: 100px;
+	margin: 0px;
+}
+
+.radio-input-div {
+	width:100%;
+}
+
+.radio-input {
+	
+	margin:0px 15px;
+}
+
+.radio-checked {
+	background-color:#b6b6b6;
+}
+
+input[type="radio"]{
+	margin-right:10px;
+}
+
+#correct-fadeout {
+	text-align:center;
+	margin:10px 0px;
+}
+
+.hidden {
+	display:none;
+}
+
+
+.breadcrumb-div {
+	margin-top:20px;
+}
+
+.green {
+	color:#00c033;
+}
+
+.red {
+	color:red;
+}
+
+#correct-bar.progress-bar {
+	min-width:2%;
+}
+
+#new-button, continue-button {
+	margin:5px;
+}
+
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+}
+
+.copyright-footer {
+	text-align:center;
+	color: #555;
+}
+
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  /* Set the fixed height of the footer here */
+  height: 40px;
+  vertical-align:middle;
+  text-align:center;
+  background-color: #dddddd;
+}
