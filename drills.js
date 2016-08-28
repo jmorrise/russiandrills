@@ -1,13 +1,22 @@
 $(document).ready(function(){
 	var currentQuestion;
-	var TEST_DEFAULT = 4; //Number of questions to test at a time
+	var TEST_DEFAULT = 10; //Number of questions to test at a time
 	var numToTest;
 	var directory = {};
 
 	//---------Initialization and loading questions--------//
 
 	var init = function(){
+		// This function runs when the page is loaded.
+
+		// Retrieve the directory from storage
 		directory = JSON.parse(localStorage.getItem('russianDrillsDir'));
+
+		// Get the name of the topic and subtopic from the query string, 
+		// Create the page's title from these
+		// Use them to get and store all the questions for that subtopic
+
+
 		var query = window.location.search;
 		var params = parseQuery(query);
 		var pageName = '';
@@ -19,7 +28,9 @@ $(document).ready(function(){
 		pageName += topic.title;
 		breadcrumbs.setCrumbs(decodeURI(pageName));
 		var nFiles = topic.files.length;
+
 		var callbackFun = function(){};
+		// For each 
 		for (var i = 0; i < nFiles; i++){
 			filename = topic.files[i];
 			if (i == nFiles-1){

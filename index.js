@@ -1,37 +1,8 @@
 $(document).ready(function(){
 
-	function loadDirectoryFile(URL){
-		//Load the JSON file named listName
-		//ajax request for the file
-		var listRequest = $.ajax({
-			url: URL,
-			dataType: "json",
-		});  
-		//The ajax request is asynchronous; the success function fills the deck once the request is complete
-		//Watch out - the request will not succeed if the JSON file has any syntax errors.
-		//Check all JSON files for errors.
-		listRequest.success(function(json){
-			directory = json;
-			localStorage.setItem('russianDrillsDir', JSON.stringify(json));
-			createMenus(json);
-
-			$('.main-topic').on('click', function(e) {
-				mainButtonCallback(e);
-			});
-			
-			$('.subtopic-group').hide();
-			
-			$('.subtopic-group').on('click', '.btn', function(e) {
-				buttonCallback(e);
-			});
-		});
-
-		listRequest.error(function(){
-			console.log("Could not find JSON file at " + URL);
-		});
-	}
-
 	function createMenus(dir){
+		// Build the HTML for the menus and then add them to the page.
+		// dir is a directory object containing a dictionary of topics.
 		var buttonDiv = $('#button-div');
 		buttonDiv.empty();
 		if (Object.keys(dir).length==0){
@@ -46,6 +17,7 @@ $(document).ready(function(){
 	}
 
 	function displayNoTopics(){
+		// Display a warning message to the user if there are no topics.
 		var $buttonDiv = $('#button-div');
 		var $message = $('<div/>')
 			.addClass('alert')
@@ -55,6 +27,10 @@ $(document).ready(function(){
 	}
 
 	function createTopicButtons(id, topic){
+		// Build the HTML for a group of buttons.
+		// Return this HTML string to be used by createMenus.
+		// id is the id or tag of the topic
+		// topic is a JS object containing a title and a dictionary of subtopics
 		var topicDiv = $('<div/>')
 			.addClass('topic-div');
 		var mainTopicButton = $('<button>')
@@ -84,45 +60,47 @@ $(document).ready(function(){
 		return topicDiv.append(mainTopicButton).append(subtopicGroup);
 	}
 
-	function mainButtonCallback(event){
-		var subGroup = $(event.target).closest('.topic-div').children('.subtopic-group');
-		var isOpen = subGroup.is(':visible');
-		$('.subtopic-group').each(function(){
-			if ($(this).css('display') == 'inline-block'){
-				$(this).slideUp(slideTime);
-			}
+	function loadDirectoryFile(dirName){
+		//Load the JSON file named dirName
+		// This directory file should contain a dictionary of topics, each of which should 
+		// contain a dictionary of subtopics.
+
+		//ajax request for the file
+		var listRequest = $.ajax({
+			url: dirName,
+			dataType: "json",
+		});  
+		//The ajax request is asynchronous; the success function fills the deck once the request is complete
+		//Watch out - the request will not succeed if the JSON file has any syntax errors.
+		//Check all JSON files for errors (recommend using the utility at jsonformatter.curiousconcept.com).
+		listRequest.success(function(json){
+			directory = json;
+			localStorage.setItem('russianDrillsDir', JSON.stringify(json));
+
+			// Now that we have the directory, use it to build the HTML for the buttons.
+			createMenus(json);
+
+
+			// Set the button callback functions after the menus have been created.
+			$('.main-topic').on('click', function(e) {
+				mainButtonCallback(e);
+			});
+			
+			$('.subtopic-group').hide();
+			
+			$('.subtopic-group').on('click', '.btn', function(e) {
+				buttonCallback(e);
+			});
 		});
-		if (!isOpen){
-			subGroup.slideDown(slideTime);
-		}
 
+		listRequest.error(function(){
+			console.log("Could not find JSON file at " + dirName);
+		});
 	}
 
-	function buttonCallback(event){
-		var selectedID = event.target.id;
-		var topicID = $(event.target).closest('.topic-div').children('.main-topic').attr('id');
-		var url = getPageURL(selectedID, topicID);
-		console.log(url);
-		window.location.assign(url);
-	}
-
-	$( document.body ).on( 'click', '.dropdown-menu li', function( event ) {
- 
-	    var $target = $( event.currentTarget );
-	 	var newClass = $target.text()
-	    $target.closest( '.btn-group' )
-	        .find( '[data-bind="course-label"]' ).text( "Select Class: " + newClass )
-	            .end()
-	        	.children( '.dropdown-toggle' ).dropdown( 'toggle' );
-	 	
-	 	//Change the directory
-	 	setNewDirectory(newClass);
-
-	    return false;
-	 
-	});
 
 	function setNewDirectory(newClass){
+		//Change the directory that is being used. 
 		function setClass(className){
 			currentClass = newClass;
 			localStorage.setItem('russianDrillsClass', className)
@@ -146,12 +124,62 @@ $(document).ready(function(){
 	}
 
 	function getPageURL(ID, parentID){
+		// Build the URL string for the page we are going to navigate to, and return it.
 		var url = '/testing/drills.html?id='+ID;
 		if (parentID){
 			url += '&parent='+parentID;
 		}
 		return url;
 	}
+
+
+	///////// Callback Functions /////////
+
+	function mainButtonCallback(event){
+		// Open or close the dropdown buttons when a parent button is clicked on.
+		var subGroup = $(event.target).closest('.topic-div').children('.subtopic-group');
+		var isOpen = subGroup.is(':visible');
+		$('.subtopic-group').each(function(){
+			if ($(this).css('display') == 'inline-block'){
+				$(this).slideUp(slideTime);
+			}
+		});
+		if (!isOpen){
+			subGroup.slideDown(slideTime);
+		}
+
+	}
+
+	function buttonCallback(event){
+		// Open the new page when a subtopic button is clicked
+		var selectedID = event.target.id;
+		var topicID = $(event.target).closest('.topic-div').children('.main-topic').attr('id');
+		var url = getPageURL(selectedID, topicID);
+		console.log(url);
+		window.location.assign(url);
+	}
+
+	$( document.body ).on( 'click', '.dropdown-menu li', function( event ) {
+
+		//This code executes when anything is selected in the dropdown for 'Select Class'
+		// Assumes there is only one dropdown on the page, which could be a problem
+		// later, so this should probably be changed.
+ 
+	    var $target = $( event.currentTarget );
+	 	var newClass = $target.text()
+	    $target.closest( '.btn-group' )
+	        .find( '[data-bind="course-label"]' ).text( "Select Class: " + newClass )
+	            .end()
+	        	.children( '.dropdown-toggle' ).dropdown( 'toggle' );
+	 	
+	 	//Change the directory
+	 	setNewDirectory(newClass);
+
+	    return false;
+	 
+	});
+
+
 
 
 	var slideTime = 300;
