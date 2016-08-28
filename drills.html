@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BYU Russian Drills</title>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link href="custom.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+<body>
+<div class="container">    
+
+	<div class="collapse navbar-collapse" id=#bs-example-navbar-collapse-1">
+		<ul class="nav navbar-nav">
+	</div>
+	<div class="breadcrumb-div">
+		<ol class="breadcrumb">
+			<li><a href="index.html">BYU Russian Drills</a></li>
+		</ol>
+	</div>
+	<div class="row row-centered">
+		<div class="col-xs-11 col-sm-9 col-md-7 col-centered">
+			<div class="panel panel-default answer-panel">
+				<div class="panel-heading" id="instructions">
+					Instructions: Loading...
+				</div>
+				<div class="panel-body">
+					<div class="row">
+						<div class="col-xs-12" id="upper-question-div">
+							<p id="prompt"><b>Loading...</b></p>
+						</div>
+					</div>
+					<div class="row padded">
+						<div class="col-sm-8" id="lower-question-div">
+							<input type="text" class="answer-input focus-input"></input>
+						</div>
+						<div class="col-xs-12 col-sm-4" id="check-button-div">
+							<button type="button" class="btn btn-danger" id="check-button">Check Answer</button>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12 green" id="correct-fadeout">
+							<span id="answer"></p>
+						</div>
+					</div>
+
+					<div class="progress" style="margin-top:10px">
+						<div class="progress-bar progress-bar-info" id="correct-bar" style="width: 0%">
+							<span class="sr-only"></span>
+						</div>
+						<div class="progress-bar progress-bar-danger" id="incorrect-bar" style="width: 0%">
+							<span class="sr-only"></span>
+						</div>
+					</div>        
+				</div>
+				<div class="panel-footer">
+				</div>
+			</div>
+		</div>
+	</div>
+		
+
+	<div id="feedback" class="modal fade">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" id="feedback-close"data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title">
+					<span id="feedback-num">2</span> out of <span id="feedback-total">5</span> correct (<span id="feedback-percent">40</span>%)
+					</h4>
+				</div>
+				<div class="modal-body">
+					<div class="row" style="height:100%">
+						<div class="col-sm-6">
+							<ul class="red" id="list-missed">
+								<li></li>
+							</ul>
+						</div>
+						<div class="col-sm-6">
+							<ul class="green" id="list-correct">
+								<li></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-primary" data-dismiss="modal" id="feedback-new-button">Choose a new topic</button>
+					<button type="button" class="btn btn-info" data-dismiss="modal" id="feedback-continue-button">More practice</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+</div>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="Controllers/Question.js"></script>
+<script type="text/javascript" src="Controllers/Deck.js"></script>
+<script type="text/javascript" src="Controllers/ProgressBarController.js"></script>
+<script type="text/javascript" src="Controllers/FeedbackBoxController.js"></script>
+<script type="text/javascript" src="Controllers/AnswerFadeController.js"></script>
+<script type="text/javascript" src="Controllers/BreadcrumbsController.js"></script>
+<script type="text/javascript" src="drills.js"></script>
+
+</body>
+</html>
