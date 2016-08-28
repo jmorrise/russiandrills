@@ -1,0 +1,46 @@
+{
+  "input_type": "text", 
+  "instructions": "Which preposition is needed to translate…? If none, write без.", 
+  "questions": [
+    [
+      "I don't bear any responsibility for that.", 
+      "перед"
+    ], 
+    [
+      "We had to dig a pit with our hands.", 
+      "без"
+    ], 
+    [
+      "You'll have to deal with that yourself.", 
+      "с"
+    ], 
+    [
+      "We said our farewells to them and left", 
+      "с"
+    ], 
+    [
+      "Did you apologize to her yet?", 
+      "перед"
+    ], 
+    [
+      "Somebody's following us.", 
+      "за"
+    ], 
+    [
+      "Do you know how to drive a car?", 
+      "без"
+    ], 
+    [
+      "We sacrificed everything for you!", 
+      "без"
+    ], 
+    [
+      "That was our Russian professor.", 
+      "без"
+    ], 
+    [
+      "We served as translators at the conference.", 
+      "без"
+    ]
+  ]
+}

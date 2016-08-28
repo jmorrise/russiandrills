@@ -1,0 +1,78 @@
+{
+  "input_type": "text", 
+  "instructions": "Translate. Use imperfective reflexives. ", 
+  "questions": [
+    [
+      "to enjoy family life", 
+      "наслаждаться семейной жизнью"
+    ], 
+    [
+      "to be proud one's country", 
+      "гордиться своей страной"
+    ], 
+    [
+      "to admire the picture's beauty", 
+      "восхищаться красотой картины"
+    ], 
+    [
+      "to deal with (be busy with) complex questions", 
+      "заниматься сложными уроками"
+    ], 
+    [
+      "to be carried away by Russian grammar", 
+      "увлекаться русской грамматикой"
+    ], 
+    [
+      "to be interested in an article", 
+      "интересоваться статьёй"
+    ], 
+    [
+      "to admire one’s own portrait", 
+      "любоваться своим портретом"
+    ], 
+    [
+      "to enjoy relaxing in England", 
+      "наслаждаться отдыхом в Англии"
+    ], 
+    [
+      "to use a gas stove", 
+      "пользоваться газовой печкой"
+    ], 
+    [
+      "to boast of a new, expensive ring", 
+      "хвастаться новым дорогим кольцом"
+    ], 
+    [
+      "to appear to be an intelligent professor", 
+      "казаться умным профессором"
+    ], 
+    [
+      "to turn out to be a good mechanic", 
+      "оказаться хорошим механиком"
+    ], 
+    [
+      "to remain the fastest horse", 
+      "оставаться самой быстрой лошадью"
+    ], 
+    [
+      "to pretend to be a dead dog", 
+      "притворяться мертвой собакой"
+    ], 
+    [
+      "to become a wise father", 
+      "становиться мудрым отцом"
+    ], 
+    [
+      "to be considered the best doctor", 
+      "считаться лучшим врачом"
+    ], 
+    [
+      "to be the leader of the team", 
+      "являться руководителем команды"
+    ], 
+    [
+      "to be made invisible", 
+      "делаться невидимым"
+    ]
+  ]
+}

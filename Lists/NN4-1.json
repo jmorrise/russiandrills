@@ -1,0 +1,54 @@
+{
+  "input_type": "text", 
+  "instructions": "Write the endings for following 'имя' type nouns.", 
+  "questions": [
+    [
+      "имя acc sg им...", 
+      "я"
+    ], 
+    [
+      "имя gen/prp/dat sg им...", 
+      "ени"
+    ], 
+    [
+      "имя ins sg им...", 
+      "енем"
+    ], 
+    [
+      "время  acc sg врем...", 
+      "я"
+    ], 
+    [
+      "время  gen/prp/dat sg врем...", 
+      "ени"
+    ], 
+    [
+      "время  ins sg врем...", 
+      "енем"
+    ], 
+    [
+      "бремя acc sg an брем...", 
+      "я"
+    ], 
+    [
+      "бремя gen/prp/dat sg брем...", 
+      "ени"
+    ], 
+    [
+      "бремя ins sg брем...", 
+      "енем"
+    ], 
+    [
+      "семя acc sg сем...", 
+      "я"
+    ], 
+    [
+      "семя gen/prp/dat sg сем...", 
+      "ени"
+    ], 
+    [
+      "семя ins sg сем...", 
+      "енем"
+    ]
+  ]
+}

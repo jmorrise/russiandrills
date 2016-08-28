@@ -1,0 +1,111 @@
+{
+  "input_type": "radio", 
+  "instructions": "Here are some phrases in English. Which preposition would be needed in the Russian equivalents?", 
+  "questions": [
+    [
+      "next time", 
+      "!в", 
+      "на", 
+      "о", 
+      "при"
+    ], 
+    [
+      "I regret it", 
+      "в", 
+      "на", 
+      "!о", 
+      "при"
+    ], 
+    [
+      "next week", 
+      "в", 
+      "!на", 
+      "о", 
+      "при"
+    ], 
+    [
+      "in front of the director", 
+      "в", 
+      "на", 
+      "о", 
+      "!при"
+    ], 
+    [
+      "worry about", 
+      "в", 
+      "на", 
+      "!о", 
+      "при"
+    ], 
+    [
+      "play the violin", 
+      "в", 
+      "!на", 
+      "о", 
+      "при"
+    ], 
+    [
+      "married a local girl", 
+      "в", 
+      "!на", 
+      "о", 
+      "при"
+    ], 
+    [
+      "in the west", 
+      "в", 
+      "!на", 
+      "о", 
+      "при"
+    ], 
+    [
+      "at a meeting", 
+      "в", 
+      "!на", 
+      "о", 
+      "при"
+    ], 
+    [
+      "need your help", 
+      "!в", 
+      "на", 
+      "о", 
+      "при"
+    ], 
+    [
+      "two minutes from here", 
+      "!в", 
+      "на", 
+      "о", 
+      "при"
+    ], 
+    [
+      "last year", 
+      "!в", 
+      "на", 
+      "о", 
+      "при"
+    ], 
+    [
+      "accuse you of", 
+      "!в", 
+      "на", 
+      "о", 
+      "при"
+    ], 
+    [
+      "I doubt it", 
+      "!в", 
+      "на", 
+      "о", 
+      "при"
+    ], 
+    [
+      "half past three", 
+      "!в", 
+      "на", 
+      "о", 
+      "при"
+    ]
+  ]
+}

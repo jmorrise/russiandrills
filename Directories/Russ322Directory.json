@@ -1,0 +1,35 @@
+{
+        "Imperative":{
+                "title":"Imperative",
+                "subtopics":{
+                        "im-vocab":{
+                                "title":"Vocab for this section",
+                                "files":["IMV.json"],
+                                "color": "dark"
+                        },
+                        "IM-1st-conj":{
+                                "title":"1st Conj - formation",
+                                "files":["IM2.json"]
+                        },
+                        "IM-2nd-conj":{
+                                "title":"2nd Conj - formation",
+                                "files":["IM3.json"]
+                        },
+                        "IM-stress":{
+                                "title":"Imperative - stress",
+                                "files":["IM4.json"]
+                        },
+                        "IM-aspect":{
+                                "title":"Imperative - aspect",
+                                "files":["IM5.json"]
+                        },
+                        "IM-quiz":{
+                                "title":"Imperative Quiz",
+                                "files":["IMquiz.json"],
+                                "color":"dark",
+                                "mode":"quiz-mode"
+                        }
+                }
+
+        }
+}

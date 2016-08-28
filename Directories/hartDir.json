@@ -1,0 +1,287 @@
+{		
+	"spelling-rules":{
+		"title":"Spelling Rules",
+		"subtopics":{
+			"sr-vocab":{
+				"title":"Vocab for this section",
+				"files":["SRV.json"]
+			},
+			"sr-hard-soft-consonants":{
+				"title":"Hard and soft consonants",
+				"files":["SR1-1.json"]
+			},
+			"sr-i":{
+				"title":"ы - и",
+				"files":["SR2-1.json", "SR2-2.json"]
+			},
+			"sr-u-a":{
+				"title":"ю,я - у,а",
+				"files":["SR3-1.json","SR3-1.json"]
+			},
+			"sr-o-e":{
+				"title":"о - е",
+				"files":["SR4-1.json","SR4-2.json","SR4-3.json","SR4-4.json","SR4-5.json"]
+			},
+			"sr-quiz":{
+				"title":"Spelling rules Quiz",
+				"files":["SR quiz test.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+
+	},
+	"gram-gender":{
+		"title":"Grammatical Gender",
+		"subtopics":{
+			"gg-vocab":{
+				"title":"Vocab for this section",
+				"files":["GGV.json"]
+			},
+			"gg-nouns-in-c":{
+				"title":"Nouns in с and сь",
+				"files":["GG1.json"]
+			},
+			"gg-nouns-in-vowel":{
+				"title":"Nouns ending in a vowel",
+				"files":["GG2.json"]
+			},
+			"gg-quiz":{
+				"title":"Grammatical gender Quiz",
+				"files":["GG quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+
+	},
+	"fleeting-vowels":{
+		"title":"Fleeting Vowels",
+		"subtopics":{
+			"fv-vocab":{
+				"title":"Vocab for this section",
+				"files":["FVV-1.json","FVV-2.json","FVV-3.json","FVV-4.json"]
+			},
+			"fv-gen-pl-fem":{
+				"title":"FV in fem. gen. plural",
+				"files":["FV1.json"]
+			},
+			"fv-nom-sg-masc":{
+				"title":"FV in masc. nom. singular",
+				"files":["FV2.json"]
+			},
+			"fv-adj":{
+				"title":"FV in short adjectives",
+				"files":["FV3.json"]
+			},
+			"fv-misc":{
+				"title":"FV in misc. words",
+				"files":["FV4.json"]
+			},
+			"fv-quiz":{
+				"title":"Fleeting vowel Quiz",
+				"files":["FV quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+
+	},
+	"adj-endings":{
+		"title":"Adjective Endings",
+		"subtopics":{
+			"adj-vocab":{
+				"title":"Vocab for this section",
+				"files":["LFV-1.json", "LFV-2.json"]
+			},
+			"adj-1":{
+				"title":"новой and живой type",
+				"files":["LF1-1.json","LF1-2.json"]
+			},
+			"adj-2":{
+				"title":"домашний type",
+				"files":["LF2.json"]
+			},
+			"adj-3":{
+				"title":"редкий and свежий types",
+				"files":["LF3.json"]
+			},
+			"adj-quiz":{
+				"title":"Adjective Quiz",
+				"files":["LF quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"conj1":{
+		"title":"First Conjugation Verbs",
+		"subtopics":{
+			"conj1-vocab":{
+				"title":"Vocab for this section",
+				"files":["VFV-1.json", "VFV-2.json", "VFV-3.json"]
+			},
+			"conj1-inline-test":{
+				"title":"Test for inline questions",
+				"files":["VF1-2test.json"]
+			},
+			"conj1-1":{
+				"title":"делать, стареть types",
+				"files":["VF1.json"]
+			},
+			"conj1-2":{
+				"title":"советовать types",
+				"files":["VF2-1.json","VF2-2.json"]
+			},
+			"conj1-3":{
+				"title":"отдохнуть types",
+				"files":["VF3.json"]
+			},
+			"conj1-4":{
+				"title":"нести types",
+				"files":["VF4.json"]
+			},
+			"conj1-5":{
+				"title":"мочь types",
+				"files":["VF5.json"]
+			},
+			"conj1-6":{
+				"title":"умереть types",
+				"files":["VF6-1.json","VF6-2.json"]
+			},
+			"conj1-7":{
+				"title":"пить types",
+				"files":["VF7.json"]
+			},
+			"conj1-8":{
+				"title":"давать types",
+				"files":["VF8.json"]
+			},
+			"conj1-9":{
+				"title":"писать types",
+				"files":["VF9-1.json","VF9-2.json"]
+			},
+			"conj1-10":{
+				"title":"Misc. types",
+				"files":["VF10-1.json","VF10-2.json","VF10-3.json"]
+			},
+			"conj1-quiz":{
+				"title":"First conjugation Quiz",
+				"files":["VF quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"conj2":{
+		"title":"Second Conjugation Verbs",
+		"subtopics":{
+			"conj2-vocab":{
+				"title":"Vocab for this section",
+				"files":["VSV-1.json","VSV-2.json"]
+			},
+			"conj2-1":{
+				"title":"говорить types",
+				"files":["VS1-1.json","VS1-2.json"]
+			},
+			"conj2-2":{
+				"title":"водить, любить types",
+				"files":["VS2-1.json","VS2-2.json"]
+			},
+			"conj2-3":{
+				"title":"получить types",
+				"files":["VS3-1.json","VS3-2.json"]
+			},
+			"conj2-4":{
+				"title":"кричать types",
+				"files":["VS4.json"]
+			},
+			"conj2-5":{
+				"title":"видеть types",
+				"files":["VS5.json"]
+			},
+			"conj2-quiz":{
+				"title":"Second conjugation quiz",
+				"files":["VS quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"masc-nouns":{
+		"title":"Masculine Nouns",
+		"subtopics":{
+			"masc-vocab":{
+				"title":"Vocab for this section",
+				"files":["MNV.json"]
+			},
+			"masc-1":{
+				"title":"завод types",
+				"files":["MN1-1.json","MN1-2.json"]
+			}
+		}
+	},
+
+	"fem-nouns":{
+		"title":"Feminine Nouns",
+		"subtopics":{
+			"fem-vocab":{
+				"title":"Vocab for this section",
+				"files":["FNV.json"]
+			},
+			"fem-1":{
+				"title":"карта types",
+				"files":["FN1-1.json","FN1-2.json"]
+			},
+			"fem-2":{
+				"title":"неделя types",
+				"files":["FN2-1.json","FN2-2.json"]
+			},
+			"fem-3":{
+				"title":"тетрадь types",
+				"files":["FN3-1.json","FN3-2.json"]
+			},
+			"fem-quiz":{
+				"title":"Feminine nouns quiz",
+				"files":["FN quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"neuter-nouns":{
+		"title":"Neuter Nouns",
+		"subtopics":{
+			"neuter-vocab":{
+				"title":"Vocab for this section",
+				"files":["NNV.json"]
+			},
+			"neuter-1":{
+				"title":"болото types",
+				"files":["NN1-1.json","NN1-2.json"]
+			},
+			"neuter-2":{
+				"title":"море, ущелье types",
+				"files":["NN2-1.json","NN2-2.json"]
+			},
+			"neuter-3":{
+				"title":"здание types",
+				"files":["NN3-1.json","NN3-2.json"]
+			},
+			"neuter-4":{
+				"title":"имя types",
+				"files":["NN4-1.json","NN4-2.json"]
+			},
+			"neuter-quiz":{
+				"title":"Neuter nouns quiz",
+				"files":["NN quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	}
+}

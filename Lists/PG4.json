@@ -1,0 +1,86 @@
+{
+  "input_type": "text", 
+  "instructions": "Here are some phrases in English. Which preposition would be used in the Russian equivalents? ", 
+  "questions": [
+    [
+      "wearing a white shirt", 
+      "в"
+    ], 
+    [
+      "at a party", 
+      "на"
+    ], 
+    [
+      "got a blue shirt on", 
+      "в"
+    ], 
+    [
+      "wearing an old suit", 
+      "в"
+    ], 
+    [
+      "in the war", 
+      "на"
+    ], 
+    [
+      "at an exhibit", 
+      "на"
+    ], 
+    [
+      "in class", 
+      "на"
+    ], 
+    [
+      "at a wedding", 
+      "на"
+    ], 
+    [
+      "at a station", 
+      "на"
+    ], 
+    [
+      "at a resort", 
+      "на"
+    ], 
+    [
+      "in the west", 
+      "на"
+    ], 
+    [
+      "in сhildhood", 
+      "в"
+    ], 
+    [
+      "at half past three", 
+      "в"
+    ], 
+    [
+      "in December", 
+      "в"
+    ], 
+    [
+      "on Red Square", 
+      "на"
+    ], 
+    [
+      "on the island", 
+      "на"
+    ], 
+    [
+      "last year", 
+      "в"
+    ], 
+    [
+      "to go by bus", 
+      "на"
+    ], 
+    [
+      "on the bus", 
+      "в"
+    ], 
+    [
+      "to go by train", 
+      "на"
+    ]
+  ]
+}

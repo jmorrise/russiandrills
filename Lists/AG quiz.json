@@ -1,0 +1,206 @@
+{
+  "input_type": "radio", 
+  "instructions": "Here are some phrases in English. Which preposition and case are needed to translate them into Russian, for example: на + P = на plus prepositional, на + А = на plus accusative.", 
+  "questions": [
+    [
+      "the store is one mile from here", 
+      "0 + A", 
+      "в + A", 
+      "на + A", 
+      "за + A", 
+      "через + A", 
+      "!в + P", 
+      "на + P"
+    ], 
+    [
+      "next week", 
+      "0 + A", 
+      "в + A", 
+      "на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "!на + P"
+    ], 
+    [
+      "I need your advice.", 
+      "0 + A", 
+      "в + A", 
+      "на + A", 
+      "за + A", 
+      "через + A", 
+      "!в + P", 
+      "на + P"
+    ], 
+    [
+      "in Alaska", 
+      "0 + A", 
+      "в + A", 
+      "на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "!на + P"
+    ], 
+    [
+      "Anton met Vera", 
+      "!0 + A", 
+      "в + A", 
+      "на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "waiting for bus #24", 
+      "!0 + A", 
+      "в + A", 
+      "на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "entered the store", 
+      "0 + A", 
+      "!в + A", 
+      "на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "plays soccer", 
+      "0 + A", 
+      "!в + A", 
+      "на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "on Tuesday", 
+      "0 + A", 
+      "!в + A", 
+      "на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "step over the crack", 
+      "0 + A", 
+      "в + A", 
+      "на + A", 
+      "за + A", 
+      "!через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "divide into parts", 
+      "0 + A", 
+      "в + A", 
+      "!на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "get mad at", 
+      "0 + A", 
+      "в + A", 
+      "!на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "rely on", 
+      "0 + A", 
+      "в + A", 
+      "!на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "beyond the river", 
+      "0 + A", 
+      "в + A", 
+      "на + A", 
+      "!за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "get down to work", 
+      "0 + A", 
+      "в + A", 
+      "на + A", 
+      "!за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "watch tv", 
+      "!0 + A", 
+      "в + A", 
+      "на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "looked at the tv", 
+      "0 + A", 
+      "в + A", 
+      "!на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "fight for right", 
+      "0 + A", 
+      "в + A", 
+      "на + A", 
+      "!за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "ran into the pedestrian", 
+      "0 + A", 
+      "в + A", 
+      "!на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ], 
+    [
+      "he looks like my neighbor", 
+      "0 + A", 
+      "в + A", 
+      "!на + A", 
+      "за + A", 
+      "через + A", 
+      "в + P", 
+      "на + P"
+    ]
+  ]
+}

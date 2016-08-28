@@ -1,0 +1,96 @@
+{
+  "input_type": "radio", 
+  "instructions": "Which word best translates...", 
+  "questions": [
+    [
+      "запере́ть", 
+      "!lock", 
+      "receive", 
+      "seem"
+    ], 
+    [
+      "отдохну́ть", 
+      "discuss", 
+      "!rest", 
+      "realize"
+    ], 
+    [
+      "опере́ть", 
+      "contain", 
+      "follow", 
+      "!lean on"
+    ], 
+    [
+      "мёрзнуть", 
+      "!freeze", 
+      "refer", 
+      "solve"
+    ], 
+    [
+      "пры́гнуть", 
+      "describe", 
+      "!jump", 
+      "prefer"
+    ], 
+    [
+      "целова́ться", 
+      "prevent", 
+      "discover", 
+      "!kiss"
+    ], 
+    [
+      "стере́ть", 
+      "!wipe off", 
+      "ensure", 
+      "expect"
+    ], 
+    [
+      "шить", 
+      "invest", 
+      "!sew", 
+      "reduce"
+    ], 
+    [
+      "изби́ть", 
+      "invest", 
+      "explain", 
+      "!beat up"
+    ], 
+    [
+      "сомнева́ться", 
+      "!doubt", 
+      "explore", 
+      "involve"
+    ], 
+    [
+      "бере́чь", 
+      "lose", 
+      "!guard", 
+      "afford"
+    ], 
+    [
+      "остава́ться", 
+      "agree", 
+      "represent", 
+      "!remain"
+    ], 
+    [
+      "перестава́ть", 
+      "!stop", 
+      "apply", 
+      "forget"
+    ], 
+    [
+      "признава́ться", 
+      "recommend", 
+      "!recognize", 
+      "rely"
+    ], 
+    [
+      "устава́ть", 
+      "vary", 
+      "generate", 
+      "!be tired"
+    ]
+  ]
+}

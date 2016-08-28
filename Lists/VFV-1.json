@@ -1,0 +1,126 @@
+{
+  "input_type": "radio", 
+  "instructions": "Which word best translates...", 
+  "questions": [
+    [
+      "бе́гать", 
+      "!run", 
+      "know", 
+      "find"
+    ], 
+    [
+      "успе́ть", 
+      "want", 
+      "!succeed", 
+      "learn"
+    ], 
+    [
+      "возвраща́ться", 
+      "become", 
+      "include", 
+      "!return"
+    ], 
+    [
+      "вспомина́ть", 
+      "!recall", 
+      "thank", 
+      "provide"
+    ], 
+    [
+      "бледне́ть", 
+      "create", 
+      "add", 
+      "!turn pale"
+    ], 
+    [
+      "владе́ть", 
+      "!possess", 
+      "add", 
+      "understand"
+    ], 
+    [
+      "вынима́ть", 
+      "consider", 
+      "choose", 
+      "!take out"
+    ], 
+    [
+      "лысе́ть", 
+      "!go bald", 
+      "develop", 
+      "remember"
+    ], 
+    [
+      "про́бовать", 
+      "determine", 
+      "!try", 
+      "grow"
+    ], 
+    [
+      "сова́ть", 
+      "allow", 
+      "supply", 
+      "!shove"
+    ], 
+    [
+      "тре́бовать", 
+      "!require", 
+      "bring", 
+      "improve"
+    ], 
+    [
+      "жева́ть", 
+      "maintain", 
+      "!chew", 
+      "begin"
+    ], 
+    [
+      "обра́доваться", 
+      "tend", 
+      "enjoy", 
+      "!be happy"
+    ], 
+    [
+      "существова́ть", 
+      "!exist", 
+      "perform", 
+      "decide"
+    ], 
+    [
+      "же́трвовать", 
+      "identify", 
+      "!sacrifice", 
+      "continue"
+    ], 
+    [
+      "зави́довать", 
+      "protect", 
+      "require", 
+      "!envy"
+    ], 
+    [
+      "отсу́тствовать", 
+      "!be absent", 
+      "occur", 
+      "write"
+    ], 
+    [
+      "препя́тствовать", 
+      "approach", 
+      "!hinder", 
+      "avoid"
+    ], 
+    [
+      "проща́ться", 
+      "prepare", 
+      "build", 
+      "!bid farewell"
+    ], 
+    [
+      "замере́ть", 
+      "!stand still", 
+      "achieve", 
+      "believe"
+    ]
+  ]
+}

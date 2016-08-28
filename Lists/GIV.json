@@ -1,0 +1,162 @@
+{
+  "input_type": "radio", 
+  "instructions": "Which word best translates...", 
+  "questions": [
+    [
+      "во́лос", 
+      "!hair", 
+      "message", 
+      "appointment"
+    ], 
+    [
+      "чуло́к", 
+      "employer", 
+      "!stocking", 
+      "подскажи..."
+    ], 
+    [
+      "уще́лье", 
+      "chapter", 
+      "department", 
+      "!ravine"
+    ], 
+    [
+      "свинья́", 
+      "!pig", 
+      "connection", 
+      "scene"
+    ], 
+    [
+      "бума́жка", 
+      "property", 
+      "!piece of paper", 
+      "lake"
+    ], 
+    [
+      "корзи́нка", 
+      "promotion", 
+      "!basket", 
+      "expression"
+    ], 
+    [
+      "перча́тка", 
+      "midnight", 
+      "!glove", 
+      "no clue"
+    ], 
+    [
+      "сапо́г", 
+      "!boot", 
+      "mud", 
+      "beats me"
+    ], 
+    [
+      "шланг", 
+      "region", 
+      "!hose", 
+      "whatever"
+    ], 
+    [
+      "че́реп", 
+      "!skull", 
+      "method", 
+      "no idea"
+    ], 
+    [
+      "рове́сник", 
+      "heart", 
+      "contemporary", 
+      "you got me"
+    ], 
+    [
+      "ноздря́", 
+      "passenger", 
+      "!nostril", 
+      "???"
+    ], 
+    [
+      "ро́хля", 
+      "grocery", 
+      "!dawdler", 
+      "uhmm…"
+    ], 
+    [
+      "ва́йя", 
+      "!frond", 
+      "concept", 
+      "your guess is as good as mine"
+    ], 
+    [
+      "го́стья", 
+      "!visitor", 
+      "driver", 
+      "er…"
+    ], 
+    [
+      "мурья́", 
+      "awareness", 
+      "!murium", 
+      "whaa?"
+    ], 
+    [
+      "ке́лья", 
+      "!cell", 
+      "contract", 
+      "you know…"
+    ], 
+    [
+      "кали́тка", 
+      "ladder", 
+      "!gate", 
+      "never mind"
+    ], 
+    [
+      "сва́дьба", 
+      "!wedding", 
+      "platform", 
+      "you're kidding"
+    ], 
+    [
+      "са́белька", 
+      "memory", 
+      "!saber", 
+      "no clue"
+    ], 
+    [
+      "овца́", 
+      "eggshell", 
+      "не знаю", 
+      "!sheep"
+    ], 
+    [
+      "левша́", 
+      "!lefty", 
+      "presence", 
+      "не знаю я"
+    ], 
+    [
+      "каланча́", 
+      "!watchtower", 
+      "soup", 
+      "понятия не имею"
+    ], 
+    [
+      "ржа́", 
+      "courage", 
+      "!rust", 
+      "haven't learned this yet"
+    ], 
+    [
+      "вожжа́", 
+      "!rein", 
+      "safety", 
+      "doh!"
+    ], 
+    [
+      "черемша́", 
+      "!wild garlic", 
+      "criticism", 
+      "uhh…"
+    ]
+  ]
+}

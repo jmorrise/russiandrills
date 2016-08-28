@@ -1,0 +1,86 @@
+{
+  "input_type": "text", 
+  "instructions": "Translate the following phrases.", 
+  "questions": [
+    [
+      "the most complex questions", 
+      "самые сложные вопросы"
+    ], 
+    [
+      "the richest man in town", 
+      "самый богатый человек в городе"
+    ], 
+    [
+      "the greatest scientist of our time", 
+      "самый великий учёный нашего века"
+    ], 
+    [
+      "the tallest tree in the forest", 
+      "cамое высокое дерево в лесу"
+    ], 
+    [
+      "the wildest party in history", 
+      "самая дикая вечеринка в истории"
+    ], 
+    [
+      "the most expensive restaurant in Moscow", 
+      "самый дорогой ресторан в Москве"
+    ], 
+    [
+      "the most interesting film ever", 
+      "самый же интересный фильм"
+    ], 
+    [
+      "the most interesting note Anton had ever read", 
+      "самая интересная записка, которую Антон когда-либо читал"
+    ], 
+    [
+      "the fastest move I can make", 
+      "самое быстрое движение, которое я могу сделать"
+    ], 
+    [
+      "the biggest problem I see", 
+      "самая большая проблема, что я вижу"
+    ], 
+    [
+      "the most ordinary words", 
+      "самые обыкновенные слова"
+    ], 
+    [
+      "the very last chapter", 
+      "самая последняя глава"
+    ], 
+    [
+      "my favorite memories of New Year's", 
+      "мои самые любимые воспоминания о Новом годе"
+    ], 
+    [
+      "the driest season is summer", 
+      "самый сухой сезон - лето"
+    ], 
+    [
+      "the coldest evening of the year", 
+      "самый холодный вечер года"
+    ], 
+    [
+      "next of kin", 
+      "ближайщий родственник"
+    ], 
+    [
+      "there's not the slightest doubt", 
+      "нет ни малейшего сомнения"
+    ], 
+    [
+      "products of a most high quality", 
+      "продукты высочайшего качества"
+    ], 
+    [
+      "a most honorable communist", 
+      "честнейший коммунист"
+    ], 
+    [
+      "a most quiet old lady", 
+      "тишайшая старуха"
+    ]
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "input_type": "radio", 
+  "instructions": "Which choice best translates the following?", 
+  "questions": [
+    [
+      "Nothing happened in spite of what you said.", 
+      "!Вопреки вашим словам ничего не случилось. ", 
+      "Ничего не случилось согласно вашим словам."
+    ], 
+    [
+      "Unfortunately we stayed home because of the rain.", 
+      "Мы остались дома благодаря дождю.", 
+      "!Мы остались дома из-за дождя."
+    ], 
+    [
+      "His life flowed away like a quiet river.", 
+      "Его жизнь вытекла и это похоже было на тихую реку.", 
+      "!Его жизнь вытекла подобно тихой реке."
+    ], 
+    [
+      "I don't belong to any party.", 
+      "!Я не принадлежу ни к какой партии.", 
+      "Я не член какой-нибудь партии."
+    ], 
+    [
+      "His love for music continued into old age.", 
+      "То, что он любил музыку, продолжалось до старости.", 
+      "!Его любовь к музыке продолжалась до старости."
+    ], 
+    [
+      "She hit her husband on the head with an axe.", 
+      "Она ударила мужа на голову топором.", 
+      "!Она ударила мужа топором по голове."
+    ], 
+    [
+      "We advised them to get married as soon as possible.", 
+      "!Мы им советовали жениться, как можно скорее.", 
+      "Мы им советовали, что они должны жениться быстрее."
+    ], 
+    [
+      "I'm surprised that Вера resisted Anton for so long.", 
+      "!Я удивляюсь тому, что Вера так долго сопротивлялась Антону.", 
+      "Я удивляюсь тому, что Вера так долго противоречила Антону."
+    ], 
+    [
+      "I really sympathize with Anton.", 
+      "Я очень сострадаю Антону.", 
+      "!Я очень сочувствую Антону."
+    ], 
+    [
+      "We each got a piece of candy.", 
+      "Каждый из нас получил кусок конфеты.", 
+      "!Мы получили по конфете."
+    ], 
+    [
+      "I want to follow in his shoes.", 
+      "Я хочу следовать за ним в его туфлях.", 
+      "!Я хочу следовать ему."
+    ]
+  ]
+}

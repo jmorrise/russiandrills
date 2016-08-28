@@ -1,0 +1,96 @@
+{
+  "input_type": "radio", 
+  "instructions": "Which of the following express the use of an instrument (i),  which duality (d), and which manner (m)? ", 
+  "questions": [
+    [
+      "We painted our flag with blood.", 
+      "!i", 
+      "d", 
+      "m"
+    ], 
+    [
+      "We'll work with anyone who wants to work.", 
+      "i", 
+      "!d", 
+      "m"
+    ], 
+    [
+      "The children rolled down the hill with great joy.", 
+      "i", 
+      "d", 
+      "!m"
+    ], 
+    [
+      "The old man wanted to hear the hard truth with his own ears.", 
+      "!i", 
+      "d", 
+      "m"
+    ], 
+    [
+      "The criminal was caught with the help of the best police officer in the city.", 
+      "i", 
+      "!d", 
+      "m"
+    ], 
+    [
+      "The swimmer ate the last lobster with pleasure.", 
+      "i", 
+      "d", 
+      "!m"
+    ], 
+    [
+      "The homeless cat scratched the expensive car with its claws.", 
+      "!i", 
+      "d", 
+      "m"
+    ], 
+    [
+      "The doctor successfully completed the operation with the newest equipment.", 
+      "!i", 
+      "d", 
+      "m"
+    ], 
+    [
+      "The woman spoke to the child with love.", 
+      "i", 
+      "d", 
+      "!m"
+    ], 
+    [
+      "Don't go to sleep with anger in your heart.", 
+      "i", 
+      "!d", 
+      "m"
+    ], 
+    [
+      "The gray dog tried to open the window with its long paw.", 
+      "!i", 
+      "d", 
+      "m"
+    ], 
+    [
+      "The green coat was placed in the basket with care.", 
+      "i", 
+      "d", 
+      "!m"
+    ], 
+    [
+      "Шеф с раздражением кричал на чиновников из управления.", 
+      "i", 
+      "d", 
+      "!m"
+    ], 
+    [
+      "They sprayed the lieutenant with water.", 
+      "!i", 
+      "d", 
+      "m"
+    ], 
+    [
+      "The rider brushed his pure-bred horse with a brush every day.", 
+      "!i", 
+      "d", 
+      "m"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "input_type": "text", 
+  "instructions": "Translate into Russian.", 
+  "questions": [
+    [
+      "It was the most boring movie Anton had ever seen.", 
+      "Это был самый скучный фильм, который Антон когда-нибудь видел."
+    ], 
+    [
+      "He was the best actor ever.", 
+      "Он же был самым лучшим актёром."
+    ], 
+    [
+      "Those were the saddest words she'd ever heard.", 
+      "Это были самые грустные слова, которые она когда-нибудь слышала."
+    ], 
+    [
+      "He eats the simplest of foods.", 
+      "Он ест самую простую еду. "
+    ], 
+    [
+      "This is the most important decision of my life.", 
+      "Это самое важное решение моей жизни."
+    ], 
+    [
+      "in the widest sense", 
+      "в самом широком смысле"
+    ], 
+    [
+      "in the nearest future", 
+      "в самое ближайшее время"
+    ], 
+    [
+      "I wish you all the best.", 
+      "Желаю вам всего хорошего."
+    ], 
+    [
+      "What's the very best computer?", 
+      "Какой самый лучший компьютер?"
+    ], 
+    [
+      "the shortest distance between two points", 
+      "кратчайшее расстояние между двумя точками"
+    ], 
+    [
+      "Those were the most tragic pages in history.", 
+      "Это были самые трагические страницы в истории."
+    ], 
+    [
+      "one of the most complex assignments", 
+      "одна из самых сложных задач"
+    ], 
+    [
+      "the very worst outcome", 
+      "самый худший исход"
+    ], 
+    [
+      "in the largest room", 
+      "в самой большой комнате"
+    ], 
+    [
+      "the most pleasant home work", 
+      "самая лучшая книга по этой теме"
+    ]
+  ]
+}

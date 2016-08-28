@@ -1,0 +1,86 @@
+{
+  "input_type": "text", 
+  "instructions": "Translate the following phrases/sentences from L. Tolstoy's 'Anna Karenina'.", 
+  "questions": [
+    [
+      "the most complex questions", 
+      "самые сложные вопросы"
+    ], 
+    [
+      "he approached the main point", 
+      "он подошёл к самому главному"
+    ], 
+    [
+      "in the strangest company", 
+      "в самом странном обществе"
+    ], 
+    [
+      "one of the best examples", 
+      "один из самых лучших образцов"
+    ], 
+    [
+      "the most unsuccessful attempt ", 
+      "самая неудачная попытка"
+    ], 
+    [
+      "the easiest death", 
+      "самая лёгкая смерть "
+    ], 
+    [
+      "with the vilest people", 
+      "с самыми гадкими людьми"
+    ], 
+    [
+      "in the most pleasant daydreams", 
+      "в самых приятных мечтаниях"
+    ], 
+    [
+      "the rudest of thoughts", 
+      "самые грубые мысли"
+    ], 
+    [
+      "the most interesting thing", 
+      "самое интересное"
+    ], 
+    [
+      "in the best condition", 
+      "в самом хорошем состоянии"
+    ], 
+    [
+      "He considered him the most dangerous competitor.", 
+      "Он считал его самым опасным соперником"
+    ], 
+    [
+      "the most surprising characters", 
+      "самые удивительные характеры"
+    ], 
+    [
+      "in this most difficult moment", 
+      "в эту самую трудную минуту"
+    ], 
+    [
+      "She understood what was most important.", 
+      "Она поняла, что было самое важное."
+    ], 
+    [
+      "a most wonderful revolution", 
+      "величайшая революция"
+    ], 
+    [
+      "questions of the nearest future", 
+      "вопросы ближайшего будущего"
+    ], 
+    [
+      "He held to the strictness neatness.", 
+      "Он держался строжайшей аккуратности."
+    ], 
+    [
+      "the slightest movement", 
+      "малейшее движение"
+    ], 
+    [
+      "without the slightest hesitation", 
+      "без малейшего колебания"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "input_type": "text", 
+  "instructions": "Translate.", 
+  "questions": [
+    [
+      "Did you go by bus?", 
+      "Вы ехали автобусом?"
+    ], 
+    [
+      "He was standing on top of the bus.", 
+      "Он стоял на автобусе."
+    ], 
+    [
+      "The old muzhik signed the document with his mark.", 
+      "Старый мужик подписал документ своим знаком."
+    ], 
+    [
+      "The duchess flew by helicopter to Moscow.", 
+      "Графиня летела вертолётом в Москву."
+    ], 
+    [
+      "We began the attack with rockets.", 
+      "Мы начали атаку ракетами."
+    ], 
+    [
+      "The worker made a big hole using a tractor.", 
+      "Рабочий сделал большую яму трактором."
+    ], 
+    [
+      "The priest sang in a loud voice.", 
+      "Священник пел громким голосом."
+    ], 
+    [
+      "We left in the early morning.", 
+      "Мы уехали ранним утром."
+    ], 
+    [
+      "The doctor returned home late at night.", 
+      "Врач вернулся домой поздней ночью."
+    ], 
+    [
+      "We look for mushrooms in the fall.", 
+      "Мы ищем грибов осенью."
+    ], 
+    [
+      "Our son loved to play in the snow during winter.", 
+      "Наш сын любил играть в снегу зимой."
+    ], 
+    [
+      "The boy always spoke in a whisper.", 
+      "Мальчик всегда говорил шепотом."
+    ], 
+    [
+      "Tsar Ivan killed his son with a stick.", 
+      "Царь Иван убил своего сына палкой."
+    ], 
+    [
+      "The cook liked to sing for hours on end.", 
+      "Повар любил петь целыми часами."
+    ], 
+    [
+      "All our trees died in the spring.", 
+      "Все наши деревья умерли весной."
+    ]
+  ]
+}

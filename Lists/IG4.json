@@ -1,0 +1,66 @@
+{
+  "input_type": "text", 
+  "instructions": "Translate. Use imperfective throughout.", 
+  "questions": [
+    [
+      "He shrugged his shoulders.", 
+      "Он пожимал плечами."
+    ], 
+    [
+      "I really wanted to breathe clean air.", 
+      "Мне очень хотелось дышать чистым воздухом."
+    ], 
+    [
+      "Anton valued Vera's love.", 
+      "Aнтон дорожил любовью Веры."
+    ], 
+    [
+      "I'm proud of your success.", 
+      "Я горжусь вашим успехом."
+    ], 
+    [
+      "Who is going to command the new regiment?", 
+      "Кто будет командовать новым полком?"
+    ], 
+    [
+      "It's not difficult to drive a car.", 
+      "Не трудно управлять машиной."
+    ], 
+    [
+      "You don't know how to lead the workers.", 
+      "Вы не умеете руководить рабочими."
+    ], 
+    [
+      "Why did you neglect my friendship?", 
+      "Почему вы пренебрегали моей дружбой?"
+    ], 
+    [
+      "Who owns this big factory?", 
+      "Кто владеет этим большим заводом?"
+    ], 
+    [
+      "It's not worth risking your health.", 
+      "Не стоит рисковать вашим здоровьем."
+    ], 
+    [
+      "I peddle cigarettes at the train station.", 
+      "Я торгую папиросами на вокзале."
+    ], 
+    [
+      "These trees smell of honey.", 
+      "Эти деревья пахнут мёдом."
+    ], 
+    [
+      "She didn't want to serve as a nurse in the army.", 
+      "Она не хотела служить медсестрой в армии."
+    ], 
+    [
+      "The young musician wanted to direct an orchestra.", 
+      "Молодой музыкант хотел дирижировать оркестром."
+    ], 
+    [
+      "The saleswoman dreamed of being in charge of a store.", 
+      "Продавщица мечтала заведовать магазином."
+    ]
+  ]
+}

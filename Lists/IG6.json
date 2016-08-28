@@ -1,0 +1,86 @@
+{
+  "input_type": "text", 
+  "instructions": "Translate using a form of быть where necessary.", 
+  "questions": [
+    [
+      "That is surprising.", 
+      "Это удивительно."
+    ], 
+    [
+      "That was our son.", 
+      "Это был наш сын."
+    ], 
+    [
+      "You will be the only witness.", 
+      "Вы будете единственным свидетелем."
+    ], 
+    [
+      "That was a good start to the movie.", 
+      "Это было хорошее начало фильма."
+    ], 
+    [
+      "She didn’t want to be his colleague.", 
+      "Она не хотела быть его коллегой."
+    ], 
+    [
+      "These small trees will someday be beautiful.", 
+      "Эти маленькие деревья когда-то будут красивыми."
+    ], 
+    [
+      "Anton wanted to be a mechanic when he was a boy.", 
+      "Антон хотел быть механиком, когда он был мальчиком."
+    ], 
+    [
+      "We will be true friends.", 
+      "Мы будем верными друзьями."
+    ], 
+    [
+      "You can be a good musician.", 
+      "Вы можете быть хорошим музыкантом."
+    ], 
+    [
+      "This athlete will soon be a trainer.", 
+      "Этот атлет скоро будет тренером."
+    ], 
+    [
+      "The priest used to be a monk.", 
+      "Священник раньше был монахом."
+    ], 
+    [
+      "The deputy minister was once a simple salesman.", 
+      "Замминистр когда-то был простым продавцом."
+    ], 
+    [
+      "And that was the end of the story.", 
+      "И это был конец рассказа."
+    ], 
+    [
+      "Being a beautiful girl, Olga smiled at everyone.", 
+      "Будучи красивой девушкой, Ольга улыбалась всем."
+    ], 
+    [
+      "The umbrella was salvation for us.", 
+      "Зонтик был для нас спасением."
+    ], 
+    [
+      "The hat was good protection from the cold.", 
+      "Шапка была хорошей защитой от холода."
+    ], 
+    [
+      "Our boss didn’t want to be a fool.", 
+      "Наш начальник не хотел быть дураком."
+    ], 
+    [
+      "These children will someday be famous researchers.", 
+      "Эти дети когда-то будут известными исследователями."
+    ], 
+    [
+      "You will never be a diplomat!", 
+      "Вы никогда не будете дипломатом!"
+    ], 
+    [
+      "Mom was always my support.", 
+      "Мама всегда была моей поддержкой."
+    ]
+  ]
+}

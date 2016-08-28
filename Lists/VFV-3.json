@@ -1,0 +1,96 @@
+{
+  "input_type": "radio", 
+  "instructions": "Which word best translates...", 
+  "questions": [
+    [
+      "везти́", 
+      "!take", 
+      "obtain", 
+      "accept"
+    ], 
+    [
+      "доказа́ть", 
+      "complain", 
+      "!prove", 
+      "depend"
+    ], 
+    [
+      "шепта́ть", 
+      "enter", 
+      "happen", 
+      "!whisper"
+    ], 
+    [
+      "описа́ть", 
+      "!describe", 
+      "indicate", 
+      "suggest"
+    ], 
+    [
+      "списа́ть", 
+      "survive", 
+      "!copy", 
+      "appreciate"
+    ], 
+    [
+      "привы́кнуть", 
+      "compare", 
+      "imagine", 
+      "!get used to"
+    ], 
+    [
+      "маха́ть", 
+      "!wave", 
+      "manage", 
+      "differ"
+    ], 
+    [
+      "шить", 
+      "encourage", 
+      "!sew", 
+      "expand"
+    ], 
+    [
+      "поги́бнуть", 
+      "prove", 
+      "react", 
+      "!perish"
+    ], 
+    [
+      "посла́ть", 
+      "!send", 
+      "recognize", 
+      "relax"
+    ], 
+    [
+      "плева́ть", 
+      "replace", 
+      "!spit", 
+      "borrow"
+    ], 
+    [
+      "боро́ться", 
+      "earn", 
+      "enable", 
+      "!wrestle"
+    ], 
+    [
+      "бри́ться", 
+      "!shave", 
+      "operate", 
+      "reflect"
+    ], 
+    [
+      "подня́ть", 
+      "send", 
+      "!pick up", 
+      "assume"
+    ], 
+    [
+      "оде́ться", 
+      "settle", 
+      "assure", 
+      "!get dressed"
+    ]
+  ]
+}

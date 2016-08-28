@@ -1,0 +1,759 @@
+{		
+	"spelling-rules":{
+		"title":"Spelling Rules",
+		"subtopics":{
+			"sr-vocab":{
+				"title":"Vocab for this section",
+				"files":["SRV.json"]
+			},
+			"sr-hard-soft-consonants":{
+				"title":"Hard and soft consonants",
+				"files":["SR1-1.json"]
+			},
+			"sr-i":{
+				"title":"ы - и",
+				"files":["SR2-1.json", "SR2-2.json"]
+			},
+			"sr-u-a":{
+				"title":"ю,я - у,а",
+				"files":["SR3-1.json","SR3-1.json"]
+			},
+			"sr-o-e":{
+				"title":"о - е",
+				"files":["SR4-1.json","SR4-2.json","SR4-3.json","SR4-4.json","SR4-5.json"]
+			},
+			"sr-quiz":{
+				"title":"Spelling rules Quiz",
+				"files":["SR quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+
+	},
+	"gram-gender":{
+		"title":"Grammatical Gender",
+		"subtopics":{
+			"gg-vocab":{
+				"title":"Vocab for this section",
+				"files":["GRV.json"],
+				"color":"dark"
+			},
+			"gg-nouns-in-c":{
+				"title":"Nouns in с and сь",
+				"files":["GR1.json"]
+			},
+			"gg-nouns-in-vowel":{
+				"title":"Nouns ending in a vowel",
+				"files":["GR2.json"]
+			},
+			"gg-quiz":{
+				"title":"Grammatical gender Quiz",
+				"files":["GR quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+
+	},
+	"fleeting-vowels":{
+		"title":"Fleeting Vowels",
+		"subtopics":{
+			"fv-vocab":{
+				"title":"Vocab for this section",
+				"files":["FVV-1.json","FVV-2.json","FVV-3.json","FVV-4.json"],
+				"color":"dark"
+			},
+			"fv-gen-pl-fem":{
+				"title":"FV in fem. gen. plural",
+				"files":["FV1.json"]
+			},
+			"fv-nom-sg-masc":{
+				"title":"FV in masc. nom. singular",
+				"files":["FV2.json"]
+			},
+			"fv-adj":{
+				"title":"FV in short adjectives",
+				"files":["FV3.json"]
+			},
+			"fv-misc":{
+				"title":"FV in misc. words",
+				"files":["FV4.json"]
+			},
+			"fv-quiz":{
+				"title":"Fleeting vowel Quiz",
+				"files":["FV quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+
+	},
+	"adj-endings":{
+		"title":"Adjective Endings",
+		"subtopics":{
+			"adj-vocab":{
+				"title":"Vocab for this section",
+				"files":["LFV-1.json", "LFV-2.json"]
+			},
+			"adj-1":{
+				"title":"новой and живой type",
+				"files":["LF1-1.json","LF1-2.json"]
+			},
+			"adj-2":{
+				"title":"домашний type",
+				"files":["LF2.json"]
+			},
+			"adj-3":{
+				"title":"редкий and свежий types",
+				"files":["LF3.json"]
+			},
+			"adj-quiz":{
+				"title":"Adjective Quiz",
+				"files":["LF quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"conj1":{
+		"title":"First Conjugation Verbs",
+		"subtopics":{
+			"conj1-vocab":{
+				"title":"Vocab for this section",
+				"files":["VFV-1.json", "VFV-2.json", "VFV-3.json"]
+			},
+			"conj1-inline-test":{
+				"title":"Test for inline questions",
+				"files":["VF1-2test.json"]
+			},
+			"conj1-1":{
+				"title":"делать, стареть types",
+				"files":["VF1.json"]
+			},
+			"conj1-2":{
+				"title":"советовать types",
+				"files":["VF2-1.json","VF2-2.json"]
+			},
+			"conj1-3":{
+				"title":"отдохнуть types",
+				"files":["VF3.json"]
+			},
+			"conj1-4":{
+				"title":"нести types",
+				"files":["VF4.json"]
+			},
+			"conj1-5":{
+				"title":"мочь types",
+				"files":["VF5.json"]
+			},
+			"conj1-6":{
+				"title":"умереть types",
+				"files":["VF6-1.json","VF6-2.json"]
+			},
+			"conj1-7":{
+				"title":"пить types",
+				"files":["VF7.json"]
+			},
+			"conj1-8":{
+				"title":"давать types",
+				"files":["VF8.json"]
+			},
+			"conj1-9":{
+				"title":"писать types",
+				"files":["VF9-1.json","VF9-2.json"]
+			},
+			"conj1-10":{
+				"title":"Misc. types",
+				"files":["VF10-1.json","VF10-2.json","VF10-3.json"]
+			},
+			"conj1-quiz":{
+				"title":"First conjugation Quiz",
+				"files":["VF quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"conj2":{
+		"title":"Second Conjugation Verbs",
+		"subtopics":{
+			"conj2-vocab":{
+				"title":"Vocab for this section",
+				"files":["VSV-1.json","VSV-2.json"],
+				"color":"dark"
+			},
+			"conj2-1":{
+				"title":"говорить types",
+				"files":["VS1-1.json","VS1-2.json"]
+			},
+			"conj2-2":{
+				"title":"водить, любить types",
+				"files":["VS2-1.json","VS2-2.json"]
+			},
+			"conj2-3":{
+				"title":"получить types",
+				"files":["VS3-1.json","VS3-2.json"]
+			},
+			"conj2-4":{
+				"title":"кричать types",
+				"files":["VS4.json"]
+			},
+			"conj2-5":{
+				"title":"видеть types",
+				"files":["VS5.json"]
+			},
+			"conj2-quiz":{
+				"title":"Second conjugation quiz",
+				"files":["VS quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"masc-nouns":{
+		"title":"Masculine Nouns",
+		"subtopics":{
+			"masc-vocab":{
+				"title":"Vocab for this section",
+				"files":["MNV.json"]
+			},
+			"masc-1":{
+				"title":"завод type",
+				"files":["MN1-1.json","MN1-2.json"]
+			},
+			"masc-2":{
+				"title":"портфель type",
+				"files":["MN2-1.json","MN2-2.json"]
+			},
+			"masc-3":{
+				"title":"герой type",
+				"files":["MN3-1.json","MN3-2.json"]
+			},
+			"masc-quiz":{
+				"title":"Masculine Nouns quiz",
+				"files":["MN quiz.json"]
+			}
+		}
+	},
+
+	"fem-nouns":{
+		"title":"Feminine Nouns",
+		"subtopics":{
+			"fem-vocab":{
+				"title":"Vocab for this section",
+				"files":["FNV.json"]
+			},
+			"fem-1":{
+				"title":"карта types",
+				"files":["FN1-1.json","FN1-2.json"]
+			},
+			"fem-2":{
+				"title":"неделя types",
+				"files":["FN2-1.json","FN2-2.json"]
+			},
+			"fem-3":{
+				"title":"тетрадь types",
+				"files":["FN3-1.json","FN3-2.json"]
+			},
+			"fem-quiz":{
+				"title":"Feminine nouns quiz",
+				"files":["FN quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"neuter-nouns":{
+		"title":"Neuter Nouns",
+		"subtopics":{
+			"neuter-vocab":{
+				"title":"Vocab for this section",
+				"files":["NNV.json"],
+				"color":"dark"
+			},
+			"neuter-1":{
+				"title":"болото types",
+				"files":["NN1-1.json","NN1-2.json"]
+			},
+			"neuter-2":{
+				"title":"море, ущелье types",
+				"files":["NN2-1.json","NN2-2.json"]
+			},
+			"neuter-3":{
+				"title":"здание types",
+				"files":["NN3-1.json","NN3-2.json"]
+			},
+			"neuter-4":{
+				"title":"имя types",
+				"files":["NN4-1.json","NN4-2.json"]
+			},
+			"neuter-quiz":{
+				"title":"Neuter nouns quiz",
+				"files":["NN quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"gen-pl-ir":{
+		"title":"Irregular Genitive Plural",
+		"subtopics":{
+			"gen-ir-vocab":{
+				"title":"Vocab for this section",
+				"files":["GIV.json"]
+			},
+			"gen-ir-1":{
+				"title":"Zero ending, masculine",
+				"files":["GI1-1.json", "GI1-2.json"]
+			},
+			"gen-ir-2":{
+				"title":"-я, -ье, -ья",
+				"files":["GI2.json"]
+			},
+			"gen-ir-3":{
+				"title":"Fleeting vowels",
+				"files":["GI3.json"]
+			},
+			"gen-ir-4":{
+				"title":"-Ča",
+				"files":["GI4.json"]
+			},
+			"quiz":{
+				"title":"Quiz",
+				"files":["GI quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"prep-pronouns":{
+		"title":"Prepositional of Pronouns",
+		"subtopics":{
+			"prep-pronouns-1":{
+				"title":"Personal",
+				"files":["PP1.json"]
+			},
+			"prep-pronouns-2":{
+				"title":"Possessive",
+				"files":["PP2.json"]
+			},
+			"prep-pronouns-3":{
+				"title":"Relative and demonstrative",
+				"files":["PP3.json"]
+			},
+			"prep-pronouns-4":{
+				"title":"Question words",
+				"files":["PP4.json"]
+			},
+			"pp-quiz":{
+				"title":"Prepositional Pronouns Quiz",
+				"files":["PP quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"prep-government":{
+		"title":"Prepositional Government",
+		"subtopics":{
+			"prep-gov-vocab":{
+				"title":"Vocab for this section",
+				"files":["PGV.json"],
+				"color":"dark"
+			},
+			"prep-gov-1":{
+				"title":"With prepositions о, в, на, при",
+				"files":["PG1.json"]
+			},
+			"prep-gov-2":{
+				"title":"With time expressions",
+				"files":["PG2.json"]
+			},
+			"prep-gov-3":{
+				"title":"With verbs",
+				"files":["PG3.json"]
+			},
+			"prep-gov-4":{
+				"title":"Miscellaneous",
+				"files":["PG4.json"]
+			},
+			"prep-gov-quiz":{
+				"title":"Prepositional Government Quiz",
+				"files":["PG quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"acc-pronouns":{
+		"title":"Accusative of Pronouns",
+		"subtopics":{
+			"acc-pronouns-1":{
+				"title":"Personal",
+				"files":["AP1.json"]
+			},
+			"acc-pronouns-2":{
+				"title":"Possessive",
+				"files":["AP2.json"]
+			},
+			"acc-pronouns-3":{
+				"title":"Relative and demonstrative",
+				"files":["AP3.json"]
+			},
+			"acc-pronouns-4":{
+				"title":"Question words",
+				"files":["AP4.json"]
+			},
+			"acc-pronouns-quiz":{
+				"title":"Accusative Pronouns Quiz",
+				"files":["AP quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"acc-government":{
+		"title":"Accusative Government",
+		"subtopics":{
+			"acc-gov-vocab":{
+				"title":"Vocab for this section",
+				"files":["AGV.json"],
+				"color":"dark"
+			},
+			"acc-gov-1":{
+				"title":"With transitive verbs",
+				"files":["AG1.json"]
+			},
+			"acc-gov-2":{
+				"title":"With destinations",
+				"files":["AG2.json"]
+			},
+			"acc-gov-3":{
+				"title":"With time expressions",
+				"files":["AG3.json"]
+			},
+			"acc-gov-4":{
+				"title":"With certain verbs",
+				"files":["AG4.json"]
+			},
+			"acc-gov-5":{
+				"title":"Expressions with на",
+				"files":["AG5.json"]
+			},
+			"acc-gov-6":{
+				"title":"Exchange",
+				"files":["AG6.json"]
+			},
+			"acc-gov-quiz":{
+				"title":"Accusative Government Quiz",
+				"files":["AG quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"gen-pronouns":{
+		"title":"Genitive of Pronouns",
+		"subtopics":{
+			"gen-pronouns-1":{
+				"title":"Personal",
+				"files":["GP1.json"]
+			},
+			"gen-pronouns-2":{
+				"title":"Possessive",
+				"files":["GP2.json"]
+			},
+			"gen-pronouns-3":{
+				"title":"Relative and demonstrative",
+				"files":["GP3.json"]
+			},
+			"gen-pronouns-4":{
+				"title":"Question words",
+				"files":["GP4.json"]
+			},
+			"gen-pronouns-quiz":{
+				"title":"Genitive Pronouns Quiz",
+				"files":["GP quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"gen-government":{
+		"title":"Genitive Government",
+		"subtopics":{
+			"gen-gov-vocab":{
+				"title":"Vocab for this section",
+				"files":["GGV.json"],
+				"color":"dark"
+			},
+			"gen-gov-1":{
+				"title":"Possession",
+				"files":["GG1.json"]
+			},
+			"gen-gov-2":{
+				"title":"Quantities and dates",
+				"files":["GG2.json"]
+			},
+			"gen-gov-3":{
+				"title":"Absence and negation",
+				"files":["GG3.json"]
+			},
+			"gen-gov-4":{
+				"title":"With comparatives",
+				"files":["GG4.json"]
+			},
+			"gen-gov-5":{
+				"title":"With verbs",
+				"files":["GG5.json"]
+			},
+			"gen-gov-6":{
+				"title":"With preps. meaning 'from'",
+				"files":["GG6.json"]
+			},
+			"gen-gov-7":{
+				"title":"With preps. indicating location",
+				"files":["GG7.json"]
+			},
+			"gen-gov-8":{
+				"title":"With preps. meaning 'for', 'regarding'",
+				"files":["GG8.json"]
+			},
+			"gen-gov-9":{
+				"title":"With вместо, без, кроме, после",
+				"files":["GG9.json"]
+			},
+			"gen-gov-quiz":{
+				"title":"Genitive Government Quiz",
+				"files":["GG quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"dat-pronouns":{
+		"title":"Dative of Pronouns",
+		"subtopics":{
+			"dat-pronouns-1":{
+				"title":"Personal",
+				"files":["DP1.json"]
+			},
+			"dat-pronouns-2":{
+				"title":"Possessive",
+				"files":["DP2.json"]
+			},
+			"dat-pronouns-3":{
+				"title":"Relative and demonstrative",
+				"files":["DP3.json"]
+			},
+			"dat-pronouns-4":{
+				"title":"Question words",
+				"files":["DP4.json"]
+			},
+			"dat-pronouns-quiz":{
+				"title":"Dative Pronouns Quiz",
+				"files":["DP quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"dat-government":{
+		"title":"Dative Government",
+		"subtopics":{
+			"dat-gov-vocab":{
+				"title":"Vocab for this section",
+				"files":["DGV.json"],
+				"color":"dark"
+			},
+			"dat-gov-1":{
+				"title":"Indirect object",
+				"files":["DG1.json"]
+			},
+			"dat-gov-2":{
+				"title":"Age",
+				"files":["DG2.json"]
+			},
+			"dat-gov-3":{
+				"title":"Impersonals",
+				"files":["DG3.json"]
+			},
+			"dat-gov-4":{
+				"title":"Negative impersonals",
+				"files":["DG4.json"]
+			},
+			"dat-gov-5":{
+				"title":"With verbs",
+				"files":["DG5.json"]
+			},
+			"dat-gov-6":{
+				"title":"With prepositions",
+				"files":["DG6.json"]
+			},
+			"dat-gov-quiz":{
+				"title":"Dative Government Quiz",
+				"files":["DG quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"instr-pronouns":{
+		"title":"Instrumental of Pronouns",
+		"subtopics":{
+			"instr-pronouns-1":{
+				"title":"Personal",
+				"files":["IP1.json"]
+			},
+			"instr-pronouns-2":{
+				"title":"Possessive",
+				"files":["IP2.json"]
+			},
+			"instr-pronouns-3":{
+				"title":"Relative and demonstrative",
+				"files":["IP3.json"]
+			},
+			"instr-pronouns-4":{
+				"title":"Question words",
+				"files":["IP4.json"]
+			},
+			"instr-pronouns-quiz":{
+				"title":"Instrumental Pronouns Quiz",
+				"files":["IP quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"instr-government":{
+		"title":"Instrumental Government",
+		"subtopics":{
+			"instr-gov-vocab":{
+				"title":"Vocab for this section",
+				"files":["IGV.json"],
+				"color":"dark"
+			},
+			"instr-gov-1":{
+				"title":"Instrument",
+				"files":["IG1.json"]
+			},
+			"instr-gov-2":{
+				"title":"Adverb and time phrases",
+				"files":["IG2.json"]
+			},
+			"instr-gov-3":{
+				"title":"With prepositions",
+				"files":["IG3.json"]
+			},
+			"instr-gov-4":{
+				"title":"With verbs",
+				"files":["IG4.json"]
+			},
+			"instr-gov-5":{
+				"title":"Reflexives",
+				"files":["IG5.json"]
+			},
+			"instr-gov-6":{
+				"title":"быть & miscellaneous",
+				"files":["IG6.json"]
+			},
+			"instr-gov-quiz":{
+				"title":"Instrumental Government Quiz",
+				"files":["IG quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"short-form-adj":{
+		"title":"Short Form Adjectives",
+		"subtopics":{
+			"sfa-vocab":{
+				"title":"Vocab for this section",
+				"files":["SAV.json"],
+				"color":"dark"
+			},
+			"sfa-1":{
+				"title":"Formation",
+				"files":["SA1.json"]
+			},
+			"sfa-2":{
+				"title":"Usage",
+				"files":["SA2.json"]
+			},
+			"sfa-quiz":{
+				"title":"Short Form Adjective Quiz",
+				"files":["SA quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"comparatives":{
+		"title":"Comparatives",
+		"subtopics":{
+			"comp-vocab":{
+				"title":"Vocab for this section",
+				"files":[".json"],
+				"color":"dark"
+			},
+			"comp-1":{
+				"title":"Short form",
+				"files":["CO1.json"]
+			},
+			"comp-2":{
+				"title":"Usage",
+				"files":["CO2.json"]
+			},
+			"comp-quiz":{
+				"title":"Comparatives Quiz",
+				"files":["CO quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	},
+
+	"superlatives":{
+		"title":"Superlatives",
+		"subtopics":{
+			"super-vocab":{
+				"title":"Vocab for this section",
+				"files":["SUV.json"],
+				"color":"dark"
+			},
+			"super-1":{
+				"title":"Simple and Complex",
+				"files":["SU1.json"]
+			},
+			"super-2":{
+				"title":"Usage",
+				"files":["SU2.json"]
+			},
+			"super-quiz":{
+				"title":"Superlatives Quiz",
+				"files":["SU quiz.json"],
+				"color":"dark",
+				"mode":"quiz-mode"
+			}
+		}
+	}
+}
